@@ -7,10 +7,12 @@ body {
   p {
     text-align: center;
   }
-  .link{
+  div{
     text-align: center;
+  }
+ .link a{
     margin: 0 10px;
-  color: green;
+    color: green;
   }
   .photo-croissant {
     max-width: 100%;
